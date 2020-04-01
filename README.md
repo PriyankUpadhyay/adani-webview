@@ -52,9 +52,6 @@ public class MainActivity extends AppCompatActivity {
         payloadData.put("user-id","");
         payloadData.put("access-token","");
         payloadData.put("refresh-token","");
-        payloadData.put("mobile-number","");
-        payloadData.put("journey-slug","");
-        payloadData.put("user-state","");
         //You can add other payload attributes in the same format.
         
         //Initialize the bot
