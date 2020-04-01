@@ -40,8 +40,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate();
         //Configuration data
         String configData = "{" +
-            "\"botName\": \"Bot-Name\"," +
-            "\"botID\": \"<REPLACE-WITH-BOT-ID>\"" +
+            "\"botName\": \"Electra\"," +
+            "\"botID\": \"x1565100503080\"," +
+            "\"enableHistory\": \"true\"" +
             "}";
         //Payload attributes
         HashMap<String, Object> payloadData = new HashMap<>();
